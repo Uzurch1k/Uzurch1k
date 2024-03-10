@@ -181,9 +181,7 @@
 
 ## Github Stats
 
-<div align="center">
-	<img height="150em" src="https://streak-stats.demolab.com?user=Uzurch1k&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F"/>
-</div>
+<img height="150em" src="https://streak-stats.demolab.com?user=Uzurch1k&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzurch1k&layout=compact&theme=transparent&hide_border=true)
 
