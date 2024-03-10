@@ -14,7 +14,6 @@
 - 💻 I have an ability to easily turn design layouts into dynamic and interactive web applications.
 - 💻 My time working alongside teams has taught me how to do well in collaborative environments, adapt to new technologies, and play a meaningful role throughout the entire software development process.
 - 💻 I'm dedicated to using my technical skills in frontend development to help bring innovative projects to life.
-- 💻 How to reach me: ...
 
 ## Skills
 
@@ -178,32 +177,14 @@
       />
     </picture>
   </a>
-  <a
-    href="https://discord.com/users/uzurch1k"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg
-        "
-      />
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
-        width="32"
-        height="32"
-      />
-    </picture>
-  </a>
 </div>
 
 ## Github Stats
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzurch1k&hide_border=true&layout=compact" align="center" style="width: 300px" />
+	<img height="150em" src="https://streak-stats.demolab.com?user=Iryna-Vyshniak&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F"/>
+	
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzurch1k&layout=compact&theme=transparent&hide_border=true)
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Uzurch1k&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
