@@ -30,7 +30,7 @@
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) 
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) 
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) 
-[![BEM](https://img.shields.io/badge/BEM-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) 
+[![BEM](https://img.shields.io/badge/BlockElementModifier-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) 
 
 </div>
 
