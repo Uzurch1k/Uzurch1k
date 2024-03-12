@@ -15,7 +15,7 @@
 - 💻 My time working alongside teams has taught me how to do well in collaborative environments, adapt to new technologies, and play a meaningful role throughout the entire software development process.
 - 💻 I'm dedicated to using my technical skills in frontend development to help bring innovative projects to life.
 
-## Skills
+### Skills
 
 <div align="left">
   <a
@@ -88,7 +88,7 @@
   </a>
 </div>
 
-## Tools
+### Tools
 
 <div align="left">
   <a
@@ -124,71 +124,22 @@
   </a>
 </div>
 
-## Socials
+### Socials
 
 <div align="left">
-  <a
-    href="https://www.github.com/Uzurch1k"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
-        "
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
-        "
-      />
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-        width="32"
-        height="32"
-      />
-    </picture>
-  </a>
-  <a
-    href="https://www.linkedin.com/in/vladyslav-halchenko/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg
-        "
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg
-        "
-      />
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-        width="32"
-        height="32"
-      />
-    </picture>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/vladyslav-halchenko/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=007BB6)]((https://t.me/uzurch1k))
+
 </div>
 
-## Github Stats
+### Github Stats
 
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzurch1k&layout=compact&theme=transparent&hide_border=true)
 
 </div>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/vladyslav-halchenko/)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=007BB6)]((https://t.me/uzurch1k))
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Uzurch1k&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
