@@ -75,8 +75,7 @@
 
 </div>
 
-
-### Github Stats
+---
 
 <div align="center">
 
