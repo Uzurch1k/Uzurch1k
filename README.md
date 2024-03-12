@@ -130,9 +130,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/vladyslav-halchenko/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=007BB6)](https://t.me/uzurch1k)
-[![Telegram](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)](https://www.figma.com/)
-[![Telegram](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=photoshop)](https://www.figma.com/)
-[![Telegram](https://img.shields.io/badge/-VScode-090909?style=for-the-badge&logo=visualstudiocode)](https://www.figma.com/)
+[![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)](https://www.figma.com/)
+[![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=photoshop&logoColor=007BB6)](https://www.adobe.com/uk/products/photoshop.html)
+[![VScode](https://img.shields.io/badge/-VScode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007BB6)](https://code.visualstudio.com/)
 
 </div>
 
