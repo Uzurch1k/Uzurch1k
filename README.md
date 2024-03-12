@@ -66,7 +66,7 @@
 </div>
 
 
-### Socials
+### SOCIALS
 
 <div align="left">
 
