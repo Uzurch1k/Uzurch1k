@@ -129,7 +129,7 @@
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/vladyslav-halchenko/)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=007BB6)]((https://t.me/uzurch1k))
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=007BB6)](https://t.me/uzurch1k)
 
 </div>
 
