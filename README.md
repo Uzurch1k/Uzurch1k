@@ -20,17 +20,17 @@
 ### FRONTEND
 
 <div style="align: left; width: 50%;">
-
-[![Vite Badge](https://img.shields.io/badge/-Vite-593D88?style=for-the-badge&labelColor=black&logo=vite&logoColor=61DBFB)](#) 
+	
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) 
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 
+[![Vite Badge](https://img.shields.io/badge/-Vite-593D88?style=for-the-badge&labelColor=black&logo=vite&logoColor=61DBFB)](#) 
 ![Axios](https://img.shields.io/badge/Axios-380953?style=for-the-badge&logo=axios&logoColor=white)
 ![swiper](https://img.shields.io/badge/Swiper-0056D2?style=for-the-badge&logo=swiper&logoColor=white)
 
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) 
-[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) 
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) 
-[![BEM](https://img.shields.io/badge/BlockElementModifier-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) 
+[![Block Element Modifier](https://img.shields.io/badge/BEM-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 
 </div>
 
