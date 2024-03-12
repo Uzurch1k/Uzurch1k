@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://media1.tenor.com/m/FtWhQzTPFvEAAAAC/ramdan-ramamdan.gif" align="center" style="width: 200px" />
+	<img src="./img/cat.gif" align="center" style="width: 200px" />
 </div>
 
 <h1 align="center">
