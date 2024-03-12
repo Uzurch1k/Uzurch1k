@@ -16,6 +16,7 @@
 - 💻 My time working alongside teams has taught me how to do well in collaborative environments, adapt to new technologies, and play a meaningful role throughout the entire software development process.
 - 💻 I'm dedicated to using my technical skills in frontend development to help bring innovative projects to life.
 
+---
 
 ### FRONTEND
 
