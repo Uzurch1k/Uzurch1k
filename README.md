@@ -124,15 +124,58 @@
   </a>
 </div>
 
+
+
+### FRONTEND
+
+<div style="align: left; width: 50%;">
+
+[![Vite Badge](https://img.shields.io/badge/-Vite-593D88?style=for-the-badge&labelColor=black&logo=vite&logoColor=61DBFB)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+
+![Axios](https://img.shields.io/badge/Axios-380953?style=for-the-badge&logo=axios&logoColor=white)
+![swiper](https://img.shields.io/badge/Swiper-0056D2?style=for-the-badge&logo=swiper&logoColor=white)
+
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) 
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) 
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) 
+
+</div>
+
+### TERMINAL
+
+<div style="align: left; width: 50%;">
+
+[![GIT Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Bash Badge](https://img.shields.io/badge/BASH-E44C30?style=for-the-badge&logo=bash&logoColor=white)](#)
+
+</div>
+
+### SOFTWARE
+
+<div style="align: right; width: 50%;">
+	
+[![VisualStudio Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
+[![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+
+</div>
+
+### OTHER
+
+<div style="align: left; width: 50%;">
+
+[![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](#)
+[![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](#)
+[![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](#)
+
+</div>
+
 ### Socials
 
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/vladyslav-halchenko/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=007BB6)](https://t.me/uzurch1k)
-[![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)](https://www.figma.com/)
-[![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=photoshop&logoColor=007BB6)](https://www.adobe.com/uk/products/photoshop.html)
-[![VScode](https://img.shields.io/badge/-VScode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007BB6)](https://code.visualstudio.com/)
 
 </div>
 
