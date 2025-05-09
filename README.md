@@ -28,10 +28,6 @@ I am dedicated to my craft and committed to using my skills to bring innovative 
 [![Block Element Modifier](https://img.shields.io/badge/BEM-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 
-[![Vite Badge](https://img.shields.io/badge/-Vite-593D88?style=for-the-badge&labelColor=black&logo=vite&logoColor=61DBFB)](#) 
-![Axios](https://img.shields.io/badge/Axios-380953?style=for-the-badge&logo=axios&logoColor=white)
-![swiper](https://img.shields.io/badge/Swiper-0056D2?style=for-the-badge&logo=swiper&logoColor=white)
-
 </div>
 
 
@@ -71,7 +67,7 @@ I am dedicated to my craft and committed to using my skills to bring innovative 
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/vladyslav-halchenko/)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=007BB6)](https://t.me/uzurch1k)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=007BB6)](https://t.me/halvslav)
 
 </div>
 
