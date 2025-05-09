@@ -10,11 +10,11 @@
 
 ## About Me:
 
-- 💻 I'm a young and enthusiastic frontend developer with a solid foundation in web development and a genuine love for creating captivating user-friendly interfaces.
-- 💻 I'm skilled in HTML5, CSS3 and JavaScript.
-- 💻 I have an ability to easily turn design layouts into dynamic and interactive web applications.
-- 💻 My time working alongside teams has taught me how to do well in collaborative environments, adapt to new technologies, and play a meaningful role throughout the entire software development process.
-- 💻 I'm dedicated to using my technical skills in frontend development to help bring innovative projects to life.
+I am a young and ambitious frontend developer with a strong foundation in web development and a passion for creating user-friendly and efficient interfaces. I am skilled in HTML5, CSS3, JavaScript, and React, and I am capable of turning design layouts into dynamic web applications. My experience working in teams has taught me to collaborate effectively, quickly adapt to new technologies, and take responsibility within the software development process.
+
+Since March 2024, I have been working as a freelance Frontend Developer, successfully completing at least 15 commercial projects. One of my strongest qualities is my attention to detail: I am a perfectionist by nature and always strive for order, both in my code and in the overall appearance of the project.
+
+I am dedicated to my craft and committed to using my skills to bring innovative ideas to life. I am open to new job opportunities, collaborations, and professional connections.
 
 ---
 
