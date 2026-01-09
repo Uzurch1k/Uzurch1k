@@ -79,7 +79,9 @@ I am dedicated to my craft and committed to using my skills to bring innovative 
 
 </div> -->
 
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Uzurch1k&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 <div align="center">
 	<img height="150em" src="https://streak-stats.demolab.com?user=Uzurch1k&theme=soft-green&hide_border=true&background=FFFFFF00&dates=00AF4BF4&fire=19892F&currStreakNum=19892F&sideNums=19892F"/>
