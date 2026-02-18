@@ -9,11 +9,13 @@
 
 ---
 
-## About Me
+About Me
 
 I am a young and ambitious frontend developer with a strong foundation in web development and a passion for creating user-friendly and efficient interfaces. I am skilled in HTML5, CSS3, JavaScript, TypeScript, React, and Next.js, and I can turn design layouts into dynamic web applications.
 
-Since March 2024, I have been working as a freelance Frontend Developer, successfully completing 15+ commercial projects. One of my strongest qualities is attention to detail: I am a perfectionist by nature and always strive for order, both in my code and in the overall appearance of the project.
+Since 2024, I have been actively working as a freelance Frontend Developer, with more than 50 completed projects in my portfolio.
+
+One of my strongest qualities is attention to detail: I am a perfectionist by nature and always strive for order, both in my code and in the overall appearance of the project.
 
 I am open to new job opportunities, collaborations, and professional connections.
 
