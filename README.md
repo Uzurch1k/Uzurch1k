@@ -61,5 +61,5 @@ I am open to new job opportunities, collaborations, and professional connections
 
 ### Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vladyslav-halchenko/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=inspire&logoColor=0A66C2)](https://www.linkedin.com/in/vladyslav-halchenko/)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/halvslav)
