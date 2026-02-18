@@ -9,7 +9,7 @@
 
 ---
 
-###About Me
+### About Me
 
 I am a young and ambitious frontend developer with a strong foundation in web development and a passion for creating user-friendly and efficient interfaces. I am skilled in HTML5, CSS3, JavaScript, TypeScript, React, and Next.js, and I can turn design layouts into dynamic web applications.
 
