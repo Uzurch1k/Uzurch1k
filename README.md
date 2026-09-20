@@ -17,7 +17,7 @@
 ### About Me
 
 - 💼 Frontend Developer at **DigitalKit** (Ukrainian web studio) and freelancer since **2024**
-- 🚀 **50+ production websites** delivered for NGOs, museums, fintech, education and e-commerce
+- 🚀 **70+ production websites** delivered for NGOs, museums, fintech, education and e-commerce
 - 🎨 Figma → pixel-perfect, responsive, cross-browser interfaces with smooth animations
 - 🧩 Clean, maintainable code: SCSS (BEM), modular JavaScript, component-based React
 - 🌱 Currently deepening **TypeScript** and **Next.js**
