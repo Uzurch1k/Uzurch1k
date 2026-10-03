@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">
-  Hi, I'm Vladyslav — Frontend Developer
+  Hi, I'm Vladyslav, a Frontend Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <p align="center">
-  I build fast, responsive and pixel-perfect websites that people enjoy using.<br/>
-  📍 Pomorie, Bulgaria · 🌍 Open to remote work
+  I turn Figma designs into fast, responsive websites.<br/>
+  📍 Pomorie, Bulgaria · 🌍 Working remotely
 </p>
 
 ---
@@ -17,10 +17,10 @@
 ### About Me
 
 - 💼 Frontend Developer at **DigitalKit** (Ukrainian web studio) and freelancer since **2024**
-- 🚀 **70+ production websites** delivered for NGOs, museums, fintech, education and e-commerce
-- 🎨 Figma → pixel-perfect, responsive, cross-browser interfaces with smooth animations
-- 🧩 Clean, maintainable code: SCSS (BEM), modular JavaScript, component-based React
-- 🌱 Currently deepening **TypeScript** and **Next.js**
+- 🚀 **70+ websites** in production for NGOs, museums, fintech, education and e-commerce
+- 🎨 Figma to code that matches the design on every screen size
+- 🧩 SCSS (BEM), modular JavaScript and component-based React
+- 🌱 Learning **TypeScript** and **Next.js** right now
 
 ---
 
@@ -29,13 +29,13 @@
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [Holodomor Museum](https://holodomormuseum.org.ua/) | Official website of the National Museum of the Holodomor-Genocide: 45+ templates, online store, accessibility mode | HTML · SCSS · JavaScript · Vite |
-| [WWF Ukraine — Atlas of Nature](https://atlasofnature.wwf.ua/) | Interactive educational platform with scroll-driven storytelling, 360° panoramas and a quiz | HTML · SCSS · JavaScript · Motion |
-| [Riib](https://riib.com/) | Multilingual React website (EN / AR with RTL / CN) powered by a headless CMS | React · TanStack Query · i18next |
-| [InSource — Business Consult](https://business-consult.in.ua/) | E-learning platform with courses, tests and a personal account | HTML · SCSS · JavaScript · Axios |
-| [FinForceOne](https://finforceone.com/) | Animation-driven website for a fintech growth agency | HTML · SCSS · JavaScript · Lenis |
+| [WWF Ukraine: Atlas of Nature](https://atlasofnature.wwf.ua/) | Educational site about Ukrainian forests: scroll animations, 360° panoramas and a quiz | HTML · SCSS · JavaScript · Motion |
+| [Riib](https://riib.com/) | React website in English, Arabic (RTL) and Chinese with content from a headless CMS | React · TanStack Query · i18next |
+| [InSource Business Consult](https://business-consult.in.ua/) | E-learning platform with courses, tests and a personal account | HTML · SCSS · JavaScript · Axios |
+| [FinForceOne](https://finforceone.com/) | Fintech agency website with a lot of animation | HTML · SCSS · JavaScript · Lenis |
 | [Boxes](https://boxes.in.ua/) | Corporate website for a packaging manufacturer | HTML · SCSS · JavaScript · Vite |
 
-> Most client projects are private repositories — the links above lead to the live websites.
+> Most client repositories are private, so the links go to the live websites.
 
 ---
 
