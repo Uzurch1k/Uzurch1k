@@ -17,7 +17,7 @@
 ### About Me
 
 - 💼 Frontend Developer at **DigitalKit** (Ukrainian web studio) and freelancer since **2024**
-- 🚀 **70+ websites** in production for NGOs, museums, fintech, education and e-commerce
+- 🚀 **70+ websites** in production for NGOs, museums, EU-funded projects, education and e-commerce
 - 🎨 Figma to code that matches the design on every screen size
 - 🧩 SCSS (BEM), modular JavaScript and component-based React
 - 🌱 Learning **TypeScript** and **Next.js** right now
@@ -31,9 +31,10 @@
 | [Holodomor Museum](https://holodomormuseum.org.ua/) | Official website of the National Museum of the Holodomor-Genocide: 45+ templates, online store, accessibility mode | HTML · SCSS · JavaScript · Vite |
 | [WWF Ukraine: Atlas of Nature](https://atlasofnature.wwf.ua/) | Educational site about Ukrainian forests: scroll animations, 360° panoramas and a quiz | HTML · SCSS · JavaScript · Motion |
 | [EU4Reconstruction](https://eu4reconstruction.org.ua/) | Website of a Team Europe initiative for Ukraine's recovery: 12 templates, a map of activities, application forms | HTML · SCSS · JavaScript · Leaflet |
-| National Action Plan 1325 | Website about UN Resolution 1325 "Women, Peace and Security": a map of regional coalitions and a document library | HTML · SCSS · JavaScript · Splide |
+| [National Action Plan 1325](https://1325ukraine.org.ua/) | Website of the Ukrainian Women's Fund about UN Resolution 1325 "Women, Peace and Security": a map of regional coalitions, a document library, UA and EN versions | HTML · SCSS · JavaScript · Splide |
 | [InSource Business Consult](https://business-consult.in.ua/) | E-learning platform with courses, tests and a personal account | HTML · SCSS · JavaScript · Axios |
 | [FinForceOne](https://finforceone.com/) | Fintech agency website with a lot of animation | HTML · SCSS · JavaScript · Lenis |
+| [Vista Zbrucha](https://zbruch.in.ua/en/) | Tourism website for a region along the Zbruch river: 19 templates for routes, tours and places, a map | HTML · SCSS · JavaScript · Splide |
 | [Boxes](https://boxes.in.ua/) | Corporate website for a packaging manufacturer | HTML · SCSS · JavaScript · Vite |
 
 > Most client repositories are private, so the links go to the live websites.
@@ -70,6 +71,7 @@
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
