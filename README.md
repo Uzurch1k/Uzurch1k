@@ -30,7 +30,8 @@
 | --- | --- | --- |
 | [Holodomor Museum](https://holodomormuseum.org.ua/) | Official website of the National Museum of the Holodomor-Genocide: 45+ templates, online store, accessibility mode | HTML · SCSS · JavaScript · Vite |
 | [WWF Ukraine: Atlas of Nature](https://atlasofnature.wwf.ua/) | Educational site about Ukrainian forests: scroll animations, 360° panoramas and a quiz | HTML · SCSS · JavaScript · Motion |
-| [Riib](https://riib.com/) | React website in English, Arabic (RTL) and Chinese with content from a headless CMS | React · TanStack Query · i18next |
+| [EU4Reconstruction](https://eu4reconstruction.org.ua/) | Website of a Team Europe initiative for Ukraine's recovery: 12 templates, a map of activities, application forms | HTML · SCSS · JavaScript · Leaflet |
+| National Action Plan 1325 | Website about UN Resolution 1325 "Women, Peace and Security": a map of regional coalitions and a document library | HTML · SCSS · JavaScript · Splide |
 | [InSource Business Consult](https://business-consult.in.ua/) | E-learning platform with courses, tests and a personal account | HTML · SCSS · JavaScript · Axios |
 | [FinForceOne](https://finforceone.com/) | Fintech agency website with a lot of animation | HTML · SCSS · JavaScript · Lenis |
 | [Boxes](https://boxes.in.ua/) | Corporate website for a packaging manufacturer | HTML · SCSS · JavaScript · Vite |
